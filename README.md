@@ -15,7 +15,7 @@ PAVA Studio의 공식 업데이트 페이지입니다.
 
 ## 파일 안내
 
-`PAVA-Studio.exe`와 `pava-release.json`은 앱 내 업데이트용입니다. GitHub의 **Source code (zip)** 및 **Source code (tar.gz)**는 이 저장소의 문서 압축 파일이며, 앱이 아닙니다. 오픈 소스 구성요소의 소스는 [pava-studio-third-party-source](https://github.com/hirobot-kr/pava-studio-third-party-source/releases)에 있습니다.
+`PAVA-Studio.exe`와 `pava-release.json`은 앱 내 업데이트용입니다. GitHub의 **Source code (zip)** 및 **Source code (tar.gz)** 파일은 이 저장소의 문서 압축 파일이며, 앱이 아닙니다. 오픈 소스 구성요소의 소스는 [pava-studio-third-party-source](https://github.com/hirobot-kr/pava-studio-third-party-source/releases)에 있습니다.
 
 ---
 
